@@ -22,13 +22,14 @@
     1. Try to replicate the issue
     2. Comment your observation and state if you are going to work on it. Assign it to yourself in case you are
 4. Create a new branch with a relevant name specifically for your work on this issue
-4. As you are coding, keep leaving comments about your progresses or failures
-5. In case you encounter a problem that is not caused by your current work or related to it:
+5. As you are coding, keep leaving comments about your progresses or failures on the issue thread
+6. In case you leave a TODO in your code, create an issue for it and put a link to that issue on your TODO line
+7. In case you encounter a problem that is not caused by your current work or related to it:
     1. Check if there is already an issue created about it. If there is, leave a comment that links to it and also leave a comment there that links to your previous comment
     2. If it is new, create a new issue about it
     3. Either way, mention what just happened in the respective Slack channel for that project
-6. In case you push anything, make sure to mention your branch's name in the comments
-7. If you successfully resolved an issue:
+8. In case you push anything, make sure to mention your branch's name in the comments
+9. If you successfully resolved an issue:
     1. If your changes to the code, changes anything about the development setup instructions, make sure to change the README properly as well
     2. If your changes to the code, requires changes to the setup code on dev-stock, make sure to mention them in the comments
     3. Push everything to your branch and create a new pull request. Mention the issue on the pull request and mention the pull request in the comments
